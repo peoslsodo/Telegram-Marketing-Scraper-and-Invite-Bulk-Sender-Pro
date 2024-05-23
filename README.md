@@ -1,4 +1,5 @@
 # Telegram Marketing Scraper and Invite Bulk Sender Pro 8.2.1
+# Free Download: https://bit.ly/tgmarket
 
 <p><strong>Telegram Bulk Account Sender and Invite Pro</strong> is a powerful Telegram marketing tool that allows you to manage multiple 
 Telegram accounts from one dashboard. This tool gives you the power to manage multiple accounts without switching between them.
@@ -22,8 +23,7 @@ batch extract contacts, bulk send messages to contacts, and multi-account poll t
  
 
 <h2><strong>Telegram Bulk Account Sender and Invite Pro Amazing Features</strong></h2>
-<ul>
-  <li><p>✅Support Bulk import your <strong>Account List</strong></p></li>
+<ul><li><p>✅Support Bulk import your <strong>Account List</strong></p></li>
   <li><p>✅Support Bulk import your <strong>Account session file</strong></p></li>
   <li><p>✅Support multiple account bulk login</p></li>
   <li><p>✅After successful login, automatically save the session</p></li>
@@ -108,22 +108,8 @@ making it easier to build a list of potential customers.</p>
  <h2><strong>Source-Code</strong></h2>
    <a href="https://t.me/galaxystudioM" rel="nofollow">
      <img src="https://i.ibb.co/c6TZgTd/Source-Code.png" alt="Source-Code" />
-    </a>
-	
- 
+    </a>	
 
- <h2><strong>Online Support</strong></h2>
-<p>If you are interested in any of our products,If you have any questions,welcome to contact us.</p>
- 
-<table>
-<tr>
-   <td>
-      <a href="https://codecanyon.net/item/telegram-marketing-scraper-and-invite-bulk-sender/39700283/comments">
-          <img src="https://i.ibb.co/PCm9JSs/help.png" alt="Telegram Marketing Scraper and Invite Bulk Sender Pro online help" />
-    </a>
-  </td>
-</tr>
-</table>
  
  
  
