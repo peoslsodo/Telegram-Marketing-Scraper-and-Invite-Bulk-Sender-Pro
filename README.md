@@ -8,8 +8,6 @@ Telegram accounts from one dashboard. This tool gives you the power to manage mu
 batch extract contacts, bulk send messages to contacts, and multi-account poll to send messages.
  This powerful software also allows users to extract groups in batches, extract the list of group members, 
  and multi-account poll batch invitation.</p> 
-
- #https://codecanyon.net/item/telegram-marketing-scraper-and-invite-bulk-sender/39700283
  
  <a href="https://t.me/galaxystudioM" rel="nofollow">
      <img src="https://i.ibb.co/tmDDyGs/payment.png" alt="payment" />
